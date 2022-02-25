@@ -1,0 +1,37 @@
+<div class="card" style="width: 8rem;">
+    <div class="card-body">
+        <img src=" https://www.hostpapa.ca/blog/wp-content/uploads/2018/12/ecommerce.jpg" alt="">
+        <h5 class="card-text">E-COMMERCE WEBSITE</h5>
+    </div>
+
+
+
+
+    <div class="card" style="width: 8rem;">
+        <div class="card-body">
+            <img src="https://www.dreamhost.com/blog/wp-content/uploads/2018/10/How-to-Optimize-Your-Website-for-Mobile-Devices-opt-scaled.jpg"
+                alt="">
+            <h5 class="card-text">MOBILE WEBSITE</h5>
+        </div>
+    </div>
+
+
+
+    <div class="card" style="width: 8rem;">
+        <div class="card" style="width: 8rem;">
+            <div class="card-body">
+                <img src="https://www.simontechway.com/wp-content/uploads/2020/04/web-design.gif"
+                    alt="">
+                <h5 class="card-text">STATIC WEBSITE</h5>
+            </div>
+        </div>
+
+
+        
+        <div class="card" style="width: 8rem;">
+            <div class="card-body">
+                <img src="https://www.touchmediaads.com/forimg/webiste.gif" alt="">
+                <h5 class="card-text">DAYNAMIC WEBSITE</h5>
+            </div>
+        </div>
+    
